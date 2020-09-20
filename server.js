@@ -63,3 +63,6 @@ app.get("/*",(req,res) => {
 
 app.listen(3000)  
 
+if(!Array.isArray(db.get("urls"))) {
+db.set("urls", [])
+}
