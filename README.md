@@ -1,7 +1,7 @@
 # URL Shorter
 ### Info
 `*` Apache License <br>
-`*` [Discord](https://discord.gg/yC659VN)
+`*` [Discord](https://discord.gg/T4BMtSu)
 
 
 
